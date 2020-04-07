@@ -1,5 +1,5 @@
 # ML-Solutions
-Here I publish my ml solutions from different ML competitions
+Here I publish my ML solutions
 
 ## My Kaggle Profile:
       https://www.kaggle.com/grazder
