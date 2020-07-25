@@ -2,7 +2,7 @@
 
 ## My Kaggle Profile:
 https://www.kaggle.com/grazder
-    
+![My Kaggle Profile](https://github.com/grazder/ML-Solutions/blob/master/Pictures/s4bWsfwq218.jpg?raw=true)    
     
     
 ## 1. 🥈 IEEE-CIS Fraud Detection. 23th place.
