@@ -13,4 +13,13 @@ Here I publish my ML solutions
       🥈2nd place
       https://www.kaggle.com/c/mlcourse-dota2-win-prediction/
       
+    
+## 3. IEEE-CIS Fraud Detection
+      🥈23th place
+      https://www.kaggle.com/c/ieee-fraud-detection
+      
+      Write-up by my teammate Federico Raimondi. You can find more code there:
+      https://federicoraimondi.github.io/myProjects/IEEE-CIS_Fraud_Detection/
+      
+      My two LGBM and CatBoost models was the strongest single models in the team.
       
