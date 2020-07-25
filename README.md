@@ -14,7 +14,7 @@ https://www.kaggle.com/c/mlcourse-dota2-win-prediction/
     
     
     
-## 2. 🥈 IEEE-CIS Fraud Detection. 23th place
+## 2. 🥈 IEEE-CIS Fraud Detection. 23th place.
 https://www.kaggle.com/c/ieee-fraud-detection
 ![Final Result](https://github.com/grazder/ML-Solutions/blob/master/Pictures/vE6Dz6ME7yc.jpg?raw=true)
 
