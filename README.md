@@ -35,3 +35,12 @@ https://www.kaggle.com/c/postsold-prediction/
 ![Final Result](https://github.com/grazder/ML-Solutions/blob/master/Pictures/2HYFa-ZPfD0.jpg?raw=true)
 
       This сompetition was made for money for team Dmitry Dmitry
+      
+      
+## 4. 🥉 OneTwoTrip Contest. 51th Place.
+https://boosters.pro/championship/onetwotrip_challenge/
+![Final Result](https://github.com/grazder/ML-Solutions/blob/master/Pictures/rwp_nq5LMuM.jpg?raw=true)
+
+    I did not spend a lot of time, but I collected some good methods and techniques 
+    in one notebook, which can be useful later.
+
