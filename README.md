@@ -1,20 +1,11 @@
 # ML-Solutions
-Here I publish my ML solutions
 
 ## My Kaggle Profile:
 https://www.kaggle.com/grazder
-      
-
-## 1. 🥈 mlcourse.ai: Dota 2 Winner Prediction. 2nd Place.
-https://www.kaggle.com/c/mlcourse-dota2-win-prediction/
-![Final Result](https://github.com/grazder/ML-Solutions/blob/master/Pictures/B9trryousGw.jpg?raw=true)
-
-      It was the final competition in ML educational course mlcourse.ai. 
-      In the 5th session I took 6th place in the final rating.
     
     
     
-## 2. 🥈 IEEE-CIS Fraud Detection. 23th place.
+## 1. 🥈 IEEE-CIS Fraud Detection. 23th place.
 https://www.kaggle.com/c/ieee-fraud-detection
 ![Final Result](https://github.com/grazder/ML-Solutions/blob/master/Pictures/vE6Dz6ME7yc.jpg?raw=true)
 
@@ -29,6 +20,14 @@ https://www.kaggle.com/c/ieee-fraud-detection
       and NaNs filling but thease notebooks were lost :(
 ![Model Results](https://github.com/grazder/ML-Solutions/blob/master/Pictures/AUQITO5tBUU.jpg?raw=true)
       
+      
+      
+## 2. 🥈 mlcourse.ai: Dota 2 Winner Prediction. 2nd Place.
+https://www.kaggle.com/c/mlcourse-dota2-win-prediction/
+![Final Result](https://github.com/grazder/ML-Solutions/blob/master/Pictures/B9trryousGw.jpg?raw=true)
+
+      It was the final competition in ML educational course mlcourse.ai. 
+      In the 5th session I took 6th place in the final rating.
       
       
 ## 3. 🥇 Postsold prediction. 1st Place.
