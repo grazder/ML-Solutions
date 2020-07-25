@@ -9,7 +9,10 @@ https://www.kaggle.com/grazder
 https://www.kaggle.com/c/mlcourse-dota2-win-prediction/
 ![Final Result](https://github.com/grazder/ML-Solutions/blob/master/Pictures/B9trryousGw.jpg?raw=true)
 
-      It was the final competition in ML educational course mlcourse.ai. In the 5th session I took 6th place in the final rating.
+      It was the final competition in ML educational course mlcourse.ai. 
+      In the 5th session I took 6th place in the final rating.
+    
+    
     
 ## 2. 🥈 IEEE-CIS Fraud Detection. 23th place
 https://www.kaggle.com/c/ieee-fraud-detection
@@ -22,8 +25,11 @@ https://www.kaggle.com/c/ieee-fraud-detection
       Filling card NaNs kernel for this competition:
       https://www.kaggle.com/grazder/filling-card-nans
 
-      Also I made a huge work on dimension reduction, data cleaning and NaNs filling but thease notebooks were lost :(
+      Also I made a huge work on dimension reduction, data cleaning 
+      and NaNs filling but thease notebooks were lost :(
 ![Model Results](https://github.com/grazder/ML-Solutions/blob/master/Pictures/AUQITO5tBUU.jpg?raw=true)
+      
+      
       
 ## 3. 🥇 Postsold prediction. 1st Place.
 https://www.kaggle.com/c/postsold-prediction/
