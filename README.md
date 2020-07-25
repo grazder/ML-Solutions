@@ -8,6 +8,8 @@ https://www.kaggle.com/grazder
 ## 1. 🥈 mlcourse.ai: Dota 2 Winner Prediction. 2nd Place.
 https://www.kaggle.com/c/mlcourse-dota2-win-prediction/
 ![Final Result](https://github.com/grazder/ML-Solutions/blob/master/Pictures/B9trryousGw.jpg?raw=true)
+
+      It was the final competition in ML educational course mlcourse.ai. In the 5th session I took 6th place in the final rating.
     
 ## 2. 🥈 IEEE-CIS Fraud Detection. 23th place
 https://www.kaggle.com/c/ieee-fraud-detection
