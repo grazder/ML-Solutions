@@ -22,5 +22,9 @@ Here I publish my ML solutions
       https://federicoraimondi.github.io/myProjects/IEEE-CIS_Fraud_Detection/
       
       My two LGBM and CatBoost models was the strongest single models in the team.
+      Filling card NaNs kernel for this competition:
+      https://www.kaggle.com/grazder/filling-card-nans
+
+      Also I made a huge work on dimension reduction, data cleaning and NaNs filling but thease notebooks were lost :(
 ![Model Results](https://github.com/grazder/ML-Solutions/blob/master/IEEE%20Fraud/AUQITO5tBUU.jpg?raw=true)
       
